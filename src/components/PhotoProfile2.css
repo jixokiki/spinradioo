@@ -1,0 +1,13 @@
+  .profile-header {
+    margin-bottom: 20px;
+  }
+  
+  .profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid #3498db;
+  }
+  
+  
