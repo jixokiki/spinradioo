@@ -1,5 +1,4 @@
 import React from 'react'
-import HeaderMenu from './HeaderMenu'
 import Segmen1 from './CardSegmen1'
 import Segmen2 from './CardSegment2'
 import Segmen3 from './CardSegment3'

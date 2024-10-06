@@ -3,6 +3,7 @@ import React from 'react'
 
 function SpotifyEmbedSegmen2(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/1cZxE4h4RpoitEWK4y2d60?utm_source=generator&theme=0&t=0" 
@@ -18,6 +19,7 @@ function SpotifyEmbedSegmen2(){
 
 function SpotifyEmbed2Segmen2(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/1omU2K5KbFsd8TAP0EWHX8?utm_source=generator&t=0" 
@@ -33,6 +35,7 @@ function SpotifyEmbed2Segmen2(){
 
 function SpotifyEmbed3Segmen2(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/5H0qWTNvzAECAWq2n0TItU?utm_source=generator&t=0" 
@@ -48,6 +51,7 @@ function SpotifyEmbed3Segmen2(){
 
 function SpotifyEmbed4Segmen2(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/0QnI1e45LXabpdscsiJrOQ?utm_source=generator&t=0" 
@@ -63,6 +67,7 @@ function SpotifyEmbed4Segmen2(){
 
 function SpotifyEmbed5Segmen2(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/1JcNMILdcV1I90CrN4Ox5Y?utm_source=generator&t=0" 
@@ -78,6 +83,7 @@ function SpotifyEmbed5Segmen2(){
 
 function SpotifyEmbed6Segmen2(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/4N8JaIcfsnXLyBbRt1Elae?utm_source=generator&t=0" 
@@ -93,6 +99,7 @@ function SpotifyEmbed6Segmen2(){
 
 function SpotifyEmbed7Segmen2(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/6VT375SsK8ku5bsIFJCxTu?utm_source=generator&t=0" 
@@ -108,6 +115,7 @@ function SpotifyEmbed7Segmen2(){
 
 function SpotifyEmbed8Segmen2(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{bordeRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/7KtUqxXVe0Q7qTM247cLBX?utm_source=generator&t=0" 
@@ -123,6 +131,7 @@ function SpotifyEmbed8Segmen2(){
 
 function SpotifyEmbed9Segmen2(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{bordeRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/2kwdoaIrirAXSMM1zju7dK?utm_source=generator&t=0" 
@@ -138,6 +147,7 @@ function SpotifyEmbed9Segmen2(){
 
 function SpotifyEmbed10Segmen2(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/7of4vuQGXVvNU3RV1I3Lne?utm_source=generator&theme=0&t=0" 
@@ -153,6 +163,7 @@ function SpotifyEmbed10Segmen2(){
 
 function SpotifyEmbed11Segmen2(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/2FA0UBRnfbhGSZ7eJETmHg?utm_source=generator&theme=0&t=0" 
@@ -168,6 +179,7 @@ function SpotifyEmbed11Segmen2(){
 
 function SpotifyEmbed12Segmen2(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/0EVFOkm5FVsymOqaIaLXBW?utm_source=generator&t=0" 
@@ -183,6 +195,7 @@ function SpotifyEmbed12Segmen2(){
 
 function SpotifyEmbed13Segmen2(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/1YaQclaKhJNjnljrhfH2Uc?utm_source=generator&t=0" 
@@ -199,6 +212,7 @@ function SpotifyEmbed13Segmen2(){
 
 function SpotifyEmbed14Segmen2(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/1jMgV1chevU3hKVvBSHOR2?utm_source=generator&t=0" 
@@ -214,6 +228,7 @@ function SpotifyEmbed14Segmen2(){
 
 function SpotifyEmbed15Segmen2(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/5jkg8CXpoLZo8NWlsXR09T?utm_source=generator&t=0" 
@@ -229,6 +244,7 @@ function SpotifyEmbed15Segmen2(){
 
 function SpotifyEmbed16Segmen2(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/36AfpIMOyrRxGj38hdN2pH?utm_source=generator&t=0" 
@@ -244,6 +260,7 @@ function SpotifyEmbed16Segmen2(){
 
 function SpotifyEmbed17Segmen2(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/1vhOO6tPpTVbUSWlg4MstA?utm_source=generator&t=0" 
@@ -259,6 +276,7 @@ function SpotifyEmbed17Segmen2(){
 
 function SpotifyEmbed18Segmen2(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/47m90yYxSCQyvlLrCA1i7E?utm_source=generator&t=0" 

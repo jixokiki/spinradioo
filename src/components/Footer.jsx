@@ -1,6 +1,6 @@
 import React from "react";
 import "./Footer.css";
-import Segmen1 from "./CardSegmen1";
+// import Segmen1 from "./CardSegmen1";
 // import ImageGallery from "./ImageGalery";
 
 export default function Footer() {

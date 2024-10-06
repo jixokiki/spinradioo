@@ -34,6 +34,7 @@ function SpotifyEmbed2Segmen4(){
 
 function SpotifyEmbed3Segmen4(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/1XOasFuRUVZld1fWRxqcC2?utm_source=generator&t=0" 
@@ -49,6 +50,7 @@ function SpotifyEmbed3Segmen4(){
 
 function SpotifyEmbed4Segmen4(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/6nPjwZVmpsPtSslsInrvCY?utm_source=generator&t=0" 
@@ -64,6 +66,7 @@ function SpotifyEmbed4Segmen4(){
 
 function SpotifyEmbed5Segmen4(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/42l3bgp5HAfEsvFVOaYDGz?utm_source=generator&t=0" 
@@ -79,6 +82,7 @@ function SpotifyEmbed5Segmen4(){
 
 function SpotifyEmbed6Segmen4(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/5bpAcsNVtB64fClxqdarH0?utm_source=generator&t=0" 
@@ -94,6 +98,7 @@ function SpotifyEmbed6Segmen4(){
 
 function SpotifyEmbed7Segmen4(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/25W2evf09tgufWEHhhLWtR?utm_source=generator&t=0" 
@@ -109,6 +114,7 @@ function SpotifyEmbed7Segmen4(){
 
 function SpotifyEmbed8Segmen4(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/2Ra9M6WOu993qOQ6fGrv4N?utm_source=generator&t=0" 
@@ -124,6 +130,7 @@ function SpotifyEmbed8Segmen4(){
 
 function SpotifyEmbed9Segmen4(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/60KeMlOZ4ZTjksjL86weGY?utm_source=generator&t=0" 
@@ -140,6 +147,7 @@ function SpotifyEmbed9Segmen4(){
 
 function SpotifyEmbed10Segmen4(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/5oHaRZZuBoSL9dCpbz5efB?utm_source=generator&t=0" 
@@ -155,6 +163,7 @@ function SpotifyEmbed10Segmen4(){
 
 function SpotifyEmbed11Segmen4(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/6DZGd8Axb5fOendji06YXo?utm_source=generator&t=0" 
@@ -170,6 +179,7 @@ function SpotifyEmbed11Segmen4(){
 
 function SpotifyEmbed12Segmen4(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/04GqqIH83w8sWb4XtweV5K?utm_source=generator&t=0" 
@@ -249,6 +259,7 @@ function SpotifyEmbed16Segmen4(){
 
 function SpotifyEmbed17Segmen4(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/1KudRWHGVzATM3pl2XNF6d?utm_source=generator&t=0" 
@@ -264,6 +275,7 @@ function SpotifyEmbed17Segmen4(){
 
 function SpotifyEmbed18Segmen4(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/5gqE4JTlrdLlvjZDeMzOtX?utm_source=generator&t=0" 
@@ -279,6 +291,7 @@ function SpotifyEmbed18Segmen4(){
 
 function SpotifyEmbed19Segmen4(){
     return(
+        // eslint-disable-next-line jsx-a11y/iframe-has-title
         <iframe 
             style={{borderRadius:'12px'}} 
             src="https://open.spotify.com/embed/episode/5168I7KAWrEF2IVuswnCBC?utm_source=generator&t=0" 
